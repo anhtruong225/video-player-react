@@ -24,7 +24,7 @@ function VideoPlayer() {
           width: "100vw",
         }}
       >
-        <h1>Britian God Talent</h1>
+        <h1>Britian's God Talent</h1>
         <Video
           autoPlay
           loop
